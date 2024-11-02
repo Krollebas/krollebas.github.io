@@ -1,0 +1,347 @@
+<mxfile host="Electron" modified="2024-10-16T12:25:15.355Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/23.1.5 Chrome/120.0.6099.109 Electron/28.1.0 Safari/537.36" etag="DsR0_rUex7ugdxgBi154" version="23.1.5" type="device">
+  <diagram name="Страница — 1" id="elGLQZBV6uXqyFaM7Cec">
+    <mxGraphModel dx="2261" dy="844" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-1" value="Продаж товарів" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="450" y="10" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-2" target="nw1gDIKdmQGAniPdu8_X-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-2" target="nw1gDIKdmQGAniPdu8_X-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-2" value="&lt;strong&gt;Дослідження ринку&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-313.5" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-3" target="nw1gDIKdmQGAniPdu8_X-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-3" target="nw1gDIKdmQGAniPdu8_X-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-3" value="&lt;strong&gt;Вибір ніші&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-113.5" y="170" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-5" target="nw1gDIKdmQGAniPdu8_X-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-5" target="nw1gDIKdmQGAniPdu8_X-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-5" value="&lt;strong&gt;Пошук постачальників&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="86.5" y="170" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-6" value="&lt;h3&gt;Вибір товару&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-123.5" y="50" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-7" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-363.5" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-8" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-263.5" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-9" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-63.5" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-10" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-163.5" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-11" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-12" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="36.5" y="240" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-13" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-6" target="nw1gDIKdmQGAniPdu8_X-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="86.5" y="100" as="sourcePoint" />
+            <mxPoint x="136.5" y="50" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-14" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-6" target="nw1gDIKdmQGAniPdu8_X-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="16.5" y="140" as="sourcePoint" />
+            <mxPoint x="66.5" y="90" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-15" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-6" target="nw1gDIKdmQGAniPdu8_X-5">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="56.5" y="130" as="sourcePoint" />
+            <mxPoint x="106.5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-17" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-1" target="nw1gDIKdmQGAniPdu8_X-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="320" y="90" as="sourcePoint" />
+            <mxPoint x="370" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-26" target="nw1gDIKdmQGAniPdu8_X-34">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-26" value="&lt;strong&gt;Визначення мети лендінгу&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-29" target="nw1gDIKdmQGAniPdu8_X-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-29" value="&lt;strong&gt;Розробка контенту&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="160" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-32" target="nw1gDIKdmQGAniPdu8_X-39">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-32" target="nw1gDIKdmQGAniPdu8_X-38">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-32" value="&lt;strong&gt;Дизайн та UX/UI&lt;/strong&gt;:" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1200" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-33" value="&lt;h3&gt;Створення лендінгу&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1150" y="40" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-34" value="Збір контактів, продаж, інформація." style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="225" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-37" value="Тексти, зображення, відео" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1060" y="225" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-38" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1260" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-39" value="Аналіз конкурентів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1160" y="230" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-40" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-33" target="nw1gDIKdmQGAniPdu8_X-26">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1330" y="90" as="sourcePoint" />
+            <mxPoint x="1380" y="40" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-41" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-33" target="nw1gDIKdmQGAniPdu8_X-29">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1260" y="130" as="sourcePoint" />
+            <mxPoint x="1310" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-42" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-33" target="nw1gDIKdmQGAniPdu8_X-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1300" y="120" as="sourcePoint" />
+            <mxPoint x="1350" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-1" target="nw1gDIKdmQGAniPdu8_X-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="476" y="60" as="sourcePoint" />
+            <mxPoint x="265" y="138" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-46" target="nw1gDIKdmQGAniPdu8_X-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-46" target="nw1gDIKdmQGAniPdu8_X-47">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-46" value="&lt;strong&gt;Технічна реалізація&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1400" y="160" width="110" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-47" value="Налаштування аналітики (Google Analytics, Facebook Pixel)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1460" y="230" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-48" value="Вибір платформи (WordPress, Tilda тощо)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1360" y="230" width="90" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-49" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-33" target="nw1gDIKdmQGAniPdu8_X-46">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1230" y="100" as="sourcePoint" />
+            <mxPoint x="1257" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-69" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-71" target="nw1gDIKdmQGAniPdu8_X-79">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-70" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-71" target="nw1gDIKdmQGAniPdu8_X-80">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-71" value="&lt;strong&gt;Створення рекламної кампанії&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-130" y="450" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-72" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-74" target="nw1gDIKdmQGAniPdu8_X-82">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-73" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-74" target="nw1gDIKdmQGAniPdu8_X-81">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-74" value="&lt;strong&gt;Бюджетування&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="450" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-75" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-77" target="nw1gDIKdmQGAniPdu8_X-84">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-77" target="nw1gDIKdmQGAniPdu8_X-83">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-77" value="&lt;strong&gt;Тестування рекламних матеріалів&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="270" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-78" value="&lt;h3&gt;Запуск реклами&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="170" y="330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-79" value="Вибір типу реклами (картинка, відео, карусель)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-180" y="520" width="90" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-80" value="Налаштування цільової аудиторії" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-80" y="520" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-81" value="Встановлення ставок" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="120" y="520" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-82" value="Визначення бюджету на рекламу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="20" y="520" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-83" value="Аналіз результатів" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="323.5" y="530" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-84" value="A/B тестування" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="530" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-85" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-78" target="nw1gDIKdmQGAniPdu8_X-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="380" y="380" as="sourcePoint" />
+            <mxPoint x="430" y="330" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-86" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-78" target="nw1gDIKdmQGAniPdu8_X-74">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="310" y="420" as="sourcePoint" />
+            <mxPoint x="360" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-87" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-78" target="nw1gDIKdmQGAniPdu8_X-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="350" y="410" as="sourcePoint" />
+            <mxPoint x="400" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-88" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-90" target="nw1gDIKdmQGAniPdu8_X-98">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-89" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-90" target="nw1gDIKdmQGAniPdu8_X-99">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-116" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-90" target="nw1gDIKdmQGAniPdu8_X-115">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-90" value="&lt;strong&gt;Визначення КПІ&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="460" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-91" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-93" target="nw1gDIKdmQGAniPdu8_X-101">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="975" y="490" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-92" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-93" target="nw1gDIKdmQGAniPdu8_X-100">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-118" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-93" target="nw1gDIKdmQGAniPdu8_X-117">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-93" value="&lt;strong&gt;Аналіз витрат&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="470" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-94" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-96" target="nw1gDIKdmQGAniPdu8_X-103">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-95" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-96" target="nw1gDIKdmQGAniPdu8_X-102">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-96" value="&lt;strong&gt;Прогнозування прибутку&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1291" y="470" width="100" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-97" value="&lt;h3&gt;Прорахунки декомпозиції&lt;/h3&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="870" y="330" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-98" value="Кількість переходів на сайт" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="630" y="530" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-99" value="Конверсія (кількість покупок/лідів)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="730" y="530" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-100" value="Витрати на створення лендінгу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-101" value="Витрати на рекламу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="930" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-102" value="Розрахунок ROI (повернення інвестицій)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1344.5" y="540" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-103" value="Оцінка середнього чека" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1241" y="540" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-104" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-97" target="nw1gDIKdmQGAniPdu8_X-90">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1080" y="390" as="sourcePoint" />
+            <mxPoint x="1130" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-105" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-97" target="nw1gDIKdmQGAniPdu8_X-93">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="430" as="sourcePoint" />
+            <mxPoint x="1060" y="380" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-106" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-97" target="nw1gDIKdmQGAniPdu8_X-96">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1050" y="420" as="sourcePoint" />
+            <mxPoint x="1100" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-107" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-109" target="nw1gDIKdmQGAniPdu8_X-111">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-108" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-109" target="nw1gDIKdmQGAniPdu8_X-110">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-109" value="&lt;strong&gt;Оптимізація кампанії&lt;/strong&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="450" width="100" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-110" value="Зміна креативів за потреби" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="523.5" y="530" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-111" value="Коригування таргетингу" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="530" width="90" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-112" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" target="nw1gDIKdmQGAniPdu8_X-109" source="nw1gDIKdmQGAniPdu8_X-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="448" y="379" as="sourcePoint" />
+            <mxPoint x="600" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-113" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-1" target="nw1gDIKdmQGAniPdu8_X-78">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="460" y="45" as="sourcePoint" />
+            <mxPoint x="5" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-114" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1" source="nw1gDIKdmQGAniPdu8_X-1" target="nw1gDIKdmQGAniPdu8_X-97">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="503" y="60" as="sourcePoint" />
+            <mxPoint x="260" y="341" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-115" value="Вартість залучення клієнта (CAC)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="827" y="530" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="nw1gDIKdmQGAniPdu8_X-117" value="Витрати на товар" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="1130" y="540" width="90" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
